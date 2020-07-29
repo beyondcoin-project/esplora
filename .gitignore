@@ -1,0 +1,7 @@
+node_modules
+dist
+terraform/.terraform
+terraform/.terraform/environment
+terraform/*.tfstate.backup
+terraform/*.tfstate
+*~
